@@ -1,0 +1,1 @@
+Projeto de criação de shell script destinado a estudar estrtura de usuários, diretórios e permissões em linux.
